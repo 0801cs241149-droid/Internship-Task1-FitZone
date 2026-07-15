@@ -24,5 +24,3 @@ FitZone is a modern, responsive one-page Online Gym website developed using **HT
 - CSS3
 - Google Fonts
 - Font Awesome
-
-## 📂 Project Structure
